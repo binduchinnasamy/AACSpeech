@@ -1,0 +1,1305 @@
+{
+    "files":
+        [
+          {
+            "filename":"blank.png",
+            "tag":""
+          },  
+          {
+                "filename":"bike.png",
+                "tag":"Bike"
+            },
+            {
+                "filename":"car.png",
+                "tag":"Car"
+            },
+            {
+                "filename":"casement_door.png",
+                "tag":"Door"
+            },
+            {
+                "filename":"dosa.png",
+                "tag":"Dosa"
+            },
+            {
+                "filename":"activity_drink.png",
+                "tag":"Drink"
+            },
+            {
+                "filename": "action_dance2.png",
+                "tag": "Dance"
+              },
+              {
+                "filename": "action_dance_1.png",
+                "tag": "Dance"
+              },
+              {
+                "filename": "action_dance_2.png",
+                "tag": "Dance"
+              },
+              {
+                "filename": "action_door_open.png",
+                "tag": "Door"
+              },
+              {
+                "filename": "action_door_open_2.png",
+                "tag": "Door"
+              },
+              {
+                "filename": "action_feaver.png",
+                "tag": "Feaver"
+              },
+              {
+                "filename": "action_handwash.png",
+                "tag": "hand wash"
+              },
+              {
+                "filename": "action_run.png",
+                "tag": "Run"
+              },
+              {
+                "filename": "action_sit.png",
+                "tag": "Sit"
+              },
+              {
+                "filename": "action_sleep.png",
+                "tag": "Sleep"
+              },
+              {
+                "filename": "action_tie_show.png",
+                "tag": "Shoe"
+              },
+              {
+                "filename": "action_undress.png",
+                "tag": "Undress"
+              },
+              {
+                "filename": "activity_bicycle.png",
+                "tag": "Cycle Bike"
+              },
+              {
+                "filename": "activity_brush1.png",
+                "tag": "Brush"
+              },
+              {
+                "filename": "activity_brush2.png",
+                "tag": "Brush"
+              },
+              {
+                "filename": "activity_dress_up.png",
+                "tag": "Dress"
+              },
+              {
+                "filename": "activity_dry_hair.png",
+                "tag": "hair"
+              },
+              {
+                "filename": "activity_haircut1.png",
+                "tag": "hair"
+              },
+              {
+                "filename": "activity_haircut2.png",
+                "tag": "hair"
+              },
+              {
+                "filename": "activity_haircut3.png",
+                "tag": "hair"
+              },
+              {
+                "filename": "activity_jump_rope.png",
+                "tag": "Jump rope"
+              },
+              {
+                "filename": "activity_jump_rope2.png",
+                "tag": "Jump rope"
+              },
+              {
+                "filename": "activity_pee.png",
+                "tag": "Pee Urine Potty"
+              },
+              {
+                "filename": "activity_potty.png",
+                "tag": "Potty"
+              },
+              {
+                "filename": "activity_potty3.png",
+                "tag": "Potty"
+              },
+              {
+                "filename": "activity_sad.png",
+                "tag": "Sad"
+              },
+              {
+                "filename": "activity_shit.png",
+                "tag": "Shit Potty"
+              },
+              {
+                "filename": "activity_shower.png",
+                "tag": "Shower"
+              },
+              {
+                "filename": "activity_swim.png",
+                "tag": "Swim"
+              },
+              {
+                "filename": "activity_swim1.png",
+                "tag": "Swim"
+              },
+              {
+                "filename": "activity_swim2.png",
+                "tag": "Swim"
+              },
+              {
+                "filename": "activity_swim3.png",
+                "tag": "Swim"
+              },
+              {
+                "filename": "activity_toilet1.png",
+                "tag": "Toilet"
+              },
+              {
+                "filename": "activity_toilet2.png",
+                "tag": "Toilet"
+              },
+              {
+                "filename": "altavoz.png",
+                "tag": ""
+              },
+              {
+                "filename": "animal_antilope.png",
+                "tag": "Antilope"
+              },
+              {
+                "filename": "animal_bird1.png",
+                "tag": "Bird"
+              },
+              {
+                "filename": "animal_cat.png",
+                "tag": "Cat"
+              },
+              {
+                "filename": "animal_crab.png",
+                "tag": "Crab"
+              },
+              {
+                "filename": "animal_dog1.png",
+                "tag": "Dog"
+              },
+              {
+                "filename": "animal_dog2.png",
+                "tag": "Dog"
+              },
+              {
+                "filename": "animal_dolphin.png",
+                "tag": "Dolphin"
+              },
+              {
+                "filename": "animal_dogs.png",
+                "tag": "Dog"
+              },
+              {
+                "filename": "animal_dove1.png",
+                "tag": "Dove"
+              },
+              {
+                "filename": "animal_dove2.png",
+                "tag": "Dove"
+              },
+              {
+                "filename": "animal_duck.png",
+                "tag": "Duck"
+              },
+              {
+                "filename": "animal_elephant.png",
+                "tag": "Elephant"
+              },
+              {
+                "filename": "animal_goat.png",
+                "tag": "Goat"
+              },
+              {
+                "filename": "animal_gorila.png",
+                "tag": "Gorilla"
+              },
+              {
+                "filename": "animal_kangaroo.png",
+                "tag": "Kangaroo"
+              },
+              {
+                "filename": "animal_leopard.png",
+                "tag": "Leopard"
+              },
+              {
+                "filename": "animal_lizard.png",
+                "tag": "Lizard"
+              },
+              {
+                "filename": "animal_panda.png",
+                "tag": "Panda"
+              },
+              {
+                "filename": "animal_panda2.png",
+                "tag": "Panda"
+              },
+              {
+                "filename": "animal_penguin.png",
+                "tag": "Penguin"
+              },
+              {
+                "filename": "animal_ping1.png",
+                "tag": "Pig"
+              },
+              {
+                "filename": "animal_ping2.png",
+                "tag": "Pig"
+              },
+              {
+                "filename": "animal_rooster.png",
+                "tag": "Rooster"
+              },
+              {
+                "filename": "animal_sheep.png",
+                "tag": "Sheep"
+              },
+              {
+                "filename": "animal_snail.png",
+                "tag": "Snail"
+              },
+              {
+                "filename": "animal_squirrel.png",
+                "tag": "Squirrel"
+              },
+              {
+                "filename": "animal_swan.png",
+                "tag": "Swan"
+              },
+              {
+                "filename": "animal_tortoise.png",
+                "tag": "Tortoise"
+              },
+              {
+                "filename": "animal_zebra.png",
+                "tag": "Zeebra"
+              },
+              {
+                "filename": "body_lip.png",
+                "tag": "Lip"
+              },
+              {
+                "filename": "body_tonge.png",
+                "tag": "Tonge"
+              },
+              {
+                "filename": "calzado_2.png",
+                "tag": ""
+              },
+              {
+                "filename": "dirlist.txt",
+                "tag": ""
+              },
+              {
+                "filename": "dress.png",
+                "tag": "Dress"
+              },
+              {
+                "filename": "dress_2.png",
+                "tag": "Dress"
+              },
+              {
+                "filename": "dress_3.png",
+                "tag": "Dress"
+              },
+              {
+                "filename": "dress_4.png",
+                "tag": "Dress"
+              },
+              {
+                "filename": "dress_5.png",
+                "tag": "Dress"
+              },
+              {
+                "filename": "dress_pant.png",
+                "tag": "Pant"
+              },
+              {
+                "filename": "dress_pant_3.png",
+                "tag": "Pant"
+              },
+              {
+                "filename": "dress_shirt1.png",
+                "tag": "Shirt"
+              },
+              {
+                "filename": "dress_shirt2.png",
+                "tag": "Shirt"
+              },
+              {
+                "filename": "dress_shirt3.png",
+                "tag": "Shirt"
+              },
+              {
+                "filename": "edible_juice.png",
+                "tag": "Juice"
+              },
+              {
+                "filename": "electronics_ipad2.png",
+                "tag": "iPad"
+              },
+              {
+                "filename": "electronic_camera.png",
+                "tag": "Camera"
+              },
+              {
+                "filename": "electronic_computor.png",
+                "tag": "Computor"
+              },
+              {
+                "filename": "electronic_ipad.png",
+                "tag": "iPad"
+              },
+              {
+                "filename": "electronic_iphone.png",
+                "tag": "iPhone"
+              },
+              {
+                "filename": "electronic_laptop.png",
+                "tag": "Laptop"
+              },
+              {
+                "filename": "electronic_lcd.png",
+                "tag": "TV"
+              },
+              {
+                "filename": "electronic_music.png",
+                "tag": "Music"
+              },
+              {
+                "filename": "electronic_phone.png",
+                "tag": "Phone"
+              },
+              {
+                "filename": "electronic_phone3.png",
+                "tag": "Phone"
+              },
+              {
+                "filename": "electronic_phone4.png",
+                "tag": "Phone"
+              },
+              {
+                "filename": "electronic_remote_control.png",
+                "tag": "Remote"
+              },
+              {
+                "filename": "electronic_tv.png",
+                "tag": "tv"
+              },
+              {
+                "filename": "electronic_tv2.png",
+                "tag": "tv"
+              },
+              {
+                "filename": "electronic_tv3.png",
+                "tag": "tv"
+              },
+              {
+                "filename": "familia_1.png",
+                "tag": "family"
+              },
+              {
+                "filename": "flor_1.png",
+                "tag": "flower"
+              },
+              {
+                "filename": "flower.png",
+                "tag": "flower"
+              },
+              {
+                "filename": "flower2.png",
+                "tag": "flower"
+              },
+              {
+                "filename": "food_apple_juice.png",
+                "tag": "Apple"
+              },
+              {
+                "filename": "food_biscuit.png",
+                "tag": "Biscuit"
+              },
+              {
+                "filename": "food_bread.png",
+                "tag": "Bread"
+              },
+              {
+                "filename": "food_banana.png",
+                "tag": "Banana"
+              },
+              {
+                "filename": "food_bread_1.png",
+                "tag": "Bread"
+              },
+              {
+                "filename": "food_burrito.png",
+                "tag": "Burrito"
+              },
+              {
+                "filename": "food_cake.png",
+                "tag": "Cake"
+              },
+              {
+                "filename": "food_cake2.png",
+                "tag": "Cake"
+              },
+              {
+                "filename": "food_cake3.png",
+                "tag": "Cake"
+              },
+              {
+                "filename": "food_candy.png",
+                "tag": "Candy"
+              },
+              {
+                "filename": "food_chocolate.png",
+                "tag": "Chocolate"
+              },
+              {
+                "filename": "food_chocolate2.png",
+                "tag": "Chocolate"
+              },
+              {
+                "filename": "food_donut.png",
+                "tag": "Donut"
+              },
+              {
+                "filename": "food_egg.png",
+                "tag": "Egg"
+              },
+              {
+                "filename": "food_frys.png",
+                "tag": "Frys"
+              },
+              {
+                "filename": "food_frys3.png",
+                "tag": "Frys"
+              },
+              {
+                "filename": "food_grape_juice.png",
+                "tag": "Grape"
+              },
+              {
+                "filename": "food_hot_dog.png",
+                "tag": "Hot Dog"
+              },
+              {
+                "filename": "food_icecream1.png",
+                "tag": "Ice Cream"
+              },
+              {
+                "filename": "food_icecream2.png",
+                "tag": "Ice Cream"
+              },
+              {
+                "filename": "food_icecream3.png",
+                "tag": "Ice Cream"
+              },
+              {
+                "filename": "food_jam.png",
+                "tag": "Jam"
+              },
+              {
+                "filename": "food_lemon_juice.png",
+                "tag": "Juice"
+              },
+              {
+                "filename": "food_lollipop.png",
+                "tag": "lollipop"
+              },
+              {
+                "filename": "food_milk.png",
+                "tag": "Milk"
+              },
+              {
+                "filename": "food_muffin_1.png",
+                "tag": "Muffin"
+              },
+              {
+                "filename": "food_muffin_2.png",
+                "tag": "Muffin"
+              },
+              {
+                "filename": "food_noodles.png",
+                "tag": "Noodles"
+              },
+              {
+                "filename": "food_omlet1.png",
+                "tag": "Omlet"
+              },
+              {
+                "filename": "food_omlet2.png",
+                "tag": "Omlet"
+              },
+              {
+                "filename": "food_omlet3.png",
+                "tag": "Omlet"
+              },
+              {
+                "filename": "food_orange_juice.png",
+                "tag": "Juice"
+              },
+              {
+                "filename": "food_pastry.png",
+                "tag": "Pastry"
+              },
+              {
+                "filename": "food_pastry_chocolate.png",
+                "tag": "Chocolate Pastry"
+              },
+              {
+                "filename": "food_pinaple_juice.png",
+                "tag": "Pinaple Juice"
+              },
+              {
+                "filename": "food_pistacho.png",
+                "tag": "Pistacho"
+              },
+              {
+                "filename": "food_pistachos.png",
+                "tag": "Pistacho"
+              },
+              {
+                "filename": "food_salad.png",
+                "tag": "Salad"
+              },
+              {
+                "filename": "food_sandwich.png",
+                "tag": "Sandwich"
+              },
+              {
+                "filename": "food_tomato_juice.png",
+                "tag": "Tomato Juice"
+              },
+              {
+                "filename": "food_chicken_lollypop.png",
+                "tag": "Chicken lolly"
+              },
+              {
+                "filename": "food_indian_idly.png",
+                "tag": "Idly"
+              },
+              {
+                "filename": "food_indian_vada.png",
+                "tag": "Vada"
+              },
+              {
+                "filename": "food_magi_noodles.png",
+                "tag": "Noodles"
+              },
+              {
+                "filename": "food_india_biriyani.png",
+                "tag": "Biriyani"
+              },
+              {
+                "filename": "food_indian_bourborn.png",
+                "tag": "Biscuit Bourborn"
+              },
+              {
+                "filename": "food_indian_lays.png",
+                "tag": "Chips Lays"
+              },
+              {
+                "filename": "fruits1.png",
+                "tag": "Fruit"
+              },
+              {
+                "filename": "fruits2.png",
+                "tag": "Fruit"
+              },
+              {
+                "filename": "fruit_apple.png",
+                "tag": "Apple Fruit"
+              },
+              {
+                "filename": "fruit_banana.png",
+                "tag": "Banana Fruit"
+              },
+              {
+                "filename": "fruit_grapes.png",
+                "tag": "Grape Fruit"
+              },
+              {
+                "filename": "fruit_lemon.png",
+                "tag": "Lemon Fruit"
+              },
+              {
+                "filename": "fruit_mango.png",
+                "tag": "Mango Fruit"
+              },
+              {
+                "filename": "fruit_peach.png",
+                "tag": "Peach"
+              },
+              {
+                "filename": "fruit_pinapple.png",
+                "tag": "Pinapple Fruit"
+              },
+              {
+                "filename": "fruit_strawberry.png",
+                "tag": "Strawberry Fruit"
+              },
+              {
+                "filename": "fruit_watermelon.png",
+                "tag": "Watermelon Fruit"
+              },
+              {
+                "filename": "fruit_watermelon2.png",
+                "tag": "Watermelon Fruit"
+              },
+              {
+                "filename": "gafas de sol.png",
+                "tag": ""
+              },
+              {
+                "filename": "generic_bag1.png",
+                "tag": "Bag"
+              },
+              {
+                "filename": "generic_bag2.png",
+                "tag": "Bag"
+              },
+              {
+                "filename": "generic_bell.png",
+                "tag": "Bell"
+              },
+              {
+                "filename": "generic_boat.png",
+                "tag": "Boat"
+              },
+              {
+                "filename": "generic_book.png",
+                "tag": "Book"
+              },
+              {
+                "filename": "generic_boot.png",
+                "tag": "Boot Shoe"
+              },
+              {
+                "filename": "generic_boot2.png",
+                "tag": "Boot Shoe"
+              },
+              {
+                "filename": "generic_box.png",
+                "tag": "Box"
+              },
+              {
+                "filename": "generic_chair1.png",
+                "tag": "Chair"
+              },
+              {
+                "filename": "generic_chair2.png",
+                "tag": "Chair"
+              },
+              {
+                "filename": "generic_chair3.png",
+                "tag": "Chair"
+              },
+              {
+                "filename": "generic_class.png",
+                "tag": "Class School"
+              },
+              {
+                "filename": "generic_fan.png",
+                "tag": "Fan"
+              },
+              {
+                "filename": "generic_footwear.png",
+                "tag": "footwear Shoe"
+              },
+              {
+                "filename": "generic_gun.png",
+                "tag": "Gun"
+              },
+              {
+                "filename": "generic_home.png",
+                "tag": "Home"
+              },
+              {
+                "filename": "generic_hat.png",
+                "tag": "Hat"
+              },
+              {
+                "filename": "generic_key.png",
+                "tag": "Key"
+              },
+              {
+                "filename": "generic_pencil1.png",
+                "tag": "Pencil"
+              },
+              {
+                "filename": "generic_pencil2.png",
+                "tag": "Pencil"
+              },
+              {
+                "filename": "generic_shoe.png",
+                "tag": "Shoe"
+              },
+              {
+                "filename": "generic_shopping.png",
+                "tag": "Shopping"
+              },
+              {
+                "filename": "generic_show2.png",
+                "tag": "Shoe"
+              },
+              {
+                "filename": "generic_toothpaste.png",
+                "tag": "Toothpaster"
+              },
+              {
+                "filename": "generic_trolly.png",
+                "tag": "Trolly"
+              },
+              {
+                "filename": "generic_umbrella.png",
+                "tag": "Umbrella"
+              },
+              {
+                "filename": "generic_umbrella2.png",
+                "tag": "Umbrella"
+              },
+              {
+                "filename": "generic_yes.png",
+                "tag": "Yes"
+              },
+              {
+                "filename": "girasol.png",
+                "tag": ""
+              },
+              {
+                "filename": "gorra_1.png",
+                "tag": ""
+              },
+              {
+                "filename": "guitarra eléctrica.png",
+                "tag": ""
+              },
+              {
+                "filename": "guitarra.png",
+                "tag": ""
+              },
+              {
+                "filename": "guitarrista.png",
+                "tag": ""
+              },
+              {
+                "filename": "hacer pis_2.png",
+                "tag": ""
+              },
+              {
+                "filename": "helicóptero_1.png",
+                "tag": ""
+              },
+              {
+                "filename": "hogar.png",
+                "tag": ""
+              },
+              {
+                "filename": "hoja verde.png",
+                "tag": ""
+              },
+              {
+                "filename": "hongo.png",
+                "tag": ""
+              },
+              {
+                "filename": "hortalizas.png",
+                "tag": ""
+              },
+              {
+                "filename": "hortalizas_1.png",
+                "tag": ""
+              },
+              {
+                "filename": "hortalizas_2.png",
+                "tag": ""
+              },
+              {
+                "filename": "household_aircondition.png",
+                "tag": "air condition"
+              },
+              {
+                "filename": "household_cup1.png",
+                "tag": "Cup"
+              },
+              {
+                "filename": "household_cup2.png",
+                "tag": "Cup"
+              },
+              {
+                "filename": "household_cup3.png",
+                "tag": "Cup"
+              },
+              {
+                "filename": "household_cup4.png",
+                "tag": "Cup"
+              },
+              {
+                "filename": "household_fan.png",
+                "tag": "Fan"
+              },
+              {
+                "filename": "household_fork.png",
+                "tag": "Fork"
+              },
+              {
+                "filename": "household_jug.png",
+                "tag": "Fork"
+              },
+              {
+                "filename": "household_knife1.png",
+                "tag": "Knife"
+              },
+              {
+                "filename": "household_knife2.png",
+                "tag": "Jug"
+              },
+              {
+                "filename": "household_spoon1.png",
+                "tag": "Spoon"
+              },
+              {
+                "filename": "household_spoon2.png",
+                "tag": "Spoon"
+              },
+              {
+                "filename": "household_toilet.png",
+                "tag": "Toilet"
+              },
+              {
+                "filename": "iglú.png",
+                "tag": ""
+              },
+              {
+                "filename": "iguana.png",
+                "tag": ""
+              },
+              {
+                "filename": "India_1.png",
+                "tag": ""
+              },
+              {
+                "filename": "jarra.png",
+                "tag": ""
+              },
+              {
+                "filename": "jirafa.png",
+                "tag": ""
+              },
+              {
+                "filename": "logopedia_3.png",
+                "tag": ""
+              },
+              {
+                "filename": "magdalena.png",
+                "tag": ""
+              },
+              {
+                "filename": "mariposa.png",
+                "tag": ""
+              },
+              {
+                "filename": "mariquita.png",
+                "tag": ""
+              },
+              {
+                "filename": "mazorca.png",
+                "tag": ""
+              },
+              {
+                "filename": "number_1.png",
+                "tag": 1
+              },
+              {
+                "filename": "number_10.png",
+                "tag": 10
+              },
+              {
+                "filename": "number_2.png",
+                "tag": 2
+              },
+              {
+                "filename": "number_3.png",
+                "tag": 3
+              },
+              {
+                "filename": "number_4.png",
+                "tag": 4
+              },
+              {
+                "filename": "number_5.png",
+                "tag": 5
+              },
+              {
+                "filename": "number_6.png",
+                "tag": 6
+              },
+              {
+                "filename": "number_7.png",
+                "tag": 7
+              },
+              {
+                "filename": "number_8.png",
+                "tag": 8
+              },
+              {
+                "filename": "number_9.png",
+                "tag": 9
+              },
+              {
+                "filename": "panocha.png",
+                "tag": ""
+              },
+              {
+                "filename": "pantalones cortos.png",
+                "tag": ""
+              },
+              {
+                "filename": "pantalones.png",
+                "tag": ""
+              },
+              {
+                "filename": "pantalones_1.png",
+                "tag": ""
+              },
+              {
+                "filename": "pantalón_2.png",
+                "tag": ""
+              },
+              {
+                "filename": "pasas.png",
+                "tag": ""
+              },
+              {
+                "filename": "pastel.png",
+                "tag": ""
+              },
+              {
+                "filename": "patio.png",
+                "tag": ""
+              },
+              {
+                "filename": "patito de goma.png",
+                "tag": ""
+              },
+              {
+                "filename": "peinar_1.png",
+                "tag": ""
+              },
+              {
+                "filename": "people_family.png",
+                "tag": "Family"
+              },
+              {
+                "filename": "people_family_2.png",
+                "tag": "Family"
+              },
+              {
+                "filename": "people_family_3.png",
+                "tag": "Family"
+              },
+              {
+                "filename": "people_family_4.png",
+                "tag": "Family"
+              },
+              {
+                "filename": "pepinillos.png",
+                "tag": ""
+              },
+              {
+                "filename": "perro.png",
+                "tag": ""
+              },
+              {
+                "filename": "perro_1.png",
+                "tag": ""
+              },
+              {
+                "filename": "phone.png",
+                "tag": "Phone"
+              },
+              {
+                "filename": "pintora.png",
+                "tag": ""
+              },
+              {
+                "filename": "pintor_1.png",
+                "tag": ""
+              },
+              {
+                "filename": "pintura_1.png",
+                "tag": ""
+              },
+              {
+                "filename": "pizza.png",
+                "tag": ""
+              },
+              {
+                "filename": "play_ball1.png",
+                "tag": "Play Ball"
+              },
+              {
+                "filename": "play_ball2.png",
+                "tag": "Play Ball"
+              },
+              {
+                "filename": "play_ball3.png",
+                "tag": "Play Ball"
+              },
+              {
+                "filename": "play_batminton.png",
+                "tag": "Play Batminton"
+              },
+              {
+                "filename": "play_jump1.png",
+                "tag": "Play Jump"
+              },
+              {
+                "filename": "play_jump2.png",
+                "tag": "Play Jump"
+              },
+              {
+                "filename": "play_roller_skate.png",
+                "tag": "Play Roller Skate"
+              },
+              {
+                "filename": "play_scooter.png",
+                "tag": "Play Scooter"
+              },
+              {
+                "filename": "play_skate.png",
+                "tag": "Play Skate"
+              },
+              {
+                "filename": "play_skate2.png",
+                "tag": "Play Skate"
+              },
+              {
+                "filename": "play_skate3.png",
+                "tag": "Play Skate"
+              },
+              {
+                "filename": "play_skate4.png",
+                "tag": "Play Skate"
+              },
+              {
+                "filename": "play_skateboard.png",
+                "tag": "Play Skate"
+              },
+              {
+                "filename": "play_spin.png",
+                "tag": "Play Spin"
+              },
+              {
+                "filename": "play_swing.png",
+                "tag": "Play Swing"
+              },
+              {
+                "filename": "play_swing1.png",
+                "tag": "Play Swing"
+              },
+              {
+                "filename": "play_swing2.png",
+                "tag": "Play Swing"
+              },
+              {
+                "filename": "play_tenis.png",
+                "tag": "Play Tenis"
+              },
+              {
+                "filename": "play_trampoline1.png",
+                "tag": "Trampoline"
+              },
+              {
+                "filename": "play_trampoline2.png",
+                "tag": "Trampoline"
+              },
+              {
+                "filename": "play_trompeta.png",
+                "tag": "Trumpet Music"
+              },
+              {
+                "filename": "play_xylophone.png",
+                "tag": "Xylophone Music"
+              },
+              {
+                "filename": "food_eggomlet.png",
+                "tag": "Omlet Egg"
+              },
+              {
+                "filename": "food_soda.png",
+                "tag": "Soda"
+              },
+              {
+                "filename": "refresco.png",
+                "tag": ""
+              },
+              {
+                "filename": "refresco_1.png",
+                "tag": ""
+              },
+              {
+                "filename": "reproductor de CD.png",
+                "tag": ""
+              },
+              {
+                "filename": "rodaja de limón.png",
+                "tag": ""
+              },
+              {
+                "filename": "rodaja de naranja.png",
+                "tag": ""
+              },
+              {
+                "filename": "rosa_2.png",
+                "tag": "Flower Rose"
+              },
+              {
+                "filename": "secar el pelo_1.png",
+                "tag": ""
+              },
+              {
+                "filename": "secar_4.png",
+                "tag": ""
+              },
+              {
+                "filename": "sentarse.png",
+                "tag": ""
+              },
+              {
+                "filename": "silla.png",
+                "tag": ""
+              },
+              {
+                "filename": "spiderman.png",
+                "tag": "Spiderman"
+              },
+              {
+                "filename": "sport_.png",
+                "tag": "Play Sport"
+              },
+              {
+                "filename": "superman.png",
+                "tag": "Superman"
+              },
+              {
+                "filename": "utensilio de cocina_8.png",
+                "tag": ""
+              },
+              {
+                "filename": "vegetable_brinjal.png",
+                "tag": "Brinjal Vegetable"
+              },
+              {
+                "filename": "vegetable_carrot.png",
+                "tag": "Carrott Vegetable"
+              },
+              {
+                "filename": "vegetable_chilli.png",
+                "tag": "Chilli Vegetable"
+              },
+              {
+                "filename": "vegetable_cucumber.png",
+                "tag": "Cucumber Vegetable"
+              },
+              {
+                "filename": "vegetable_olive.png",
+                "tag": "Olive Vegetable"
+              },
+              {
+                "filename": "vegetable_olive2.png",
+                "tag": "Olive"
+              },
+              {
+                "filename": "vegetable_onion.png",
+                "tag": "Onion"
+              },
+              {
+                "filename": "vegetable_papaya.png",
+                "tag": "Papaya"
+              },
+              {
+                "filename": "vegetable_pear.png",
+                "tag": "Pear"
+              },
+              {
+                "filename": "vegetable_peas.png",
+                "tag": "Peas"
+              },
+              {
+                "filename": "vegetable_pepper1.png",
+                "tag": "Pepper"
+              },
+              {
+                "filename": "vegetable_pepper2.png",
+                "tag": "Pepper"
+              },
+              {
+                "filename": "vegetable_pumpkin.png",
+                "tag": "Pumkin"
+              },
+              {
+                "filename": "vegetable_tomato.png",
+                "tag": "Tomato"
+              },
+              {
+                "filename": "vehicle_aeroplane.png",
+                "tag": "Aeroplane"
+              },
+              {
+                "filename": "vehicle_ambulance.png",
+                "tag": "Ambulance"
+              },
+              {
+                "filename": "vehicle_bicycle.png",
+                "tag": "Bike"
+              },
+              {
+                "filename": "vehicle_bus_1.png",
+                "tag": "Bus"
+              },
+              {
+                "filename": "vehicle_bus_2.png",
+                "tag": "Bus"
+              },
+              {
+                "filename": "vehicle_car.png",
+                "tag": "Car"
+              },
+              {
+                "filename": "vehicle_car_2.png",
+                "tag": "Car"
+              },
+              {
+                "filename": "vehicle_motorcycle_3.png",
+                "tag": "Bike"
+              },
+              {
+                "filename": "vehicle_motorcycle_bike_1.png",
+                "tag": "Motorcycle Bike"
+              },
+              {
+                "filename": "vehicle_motorcycle_bike_2.png",
+                "tag": "Motorcycle Bike"
+              },
+              {
+                "filename": "vehicle_truck1.png",
+                "tag": "Truck"
+              },
+              {
+                "filename": "vehicle_truck2.png",
+                "tag": "Truck"
+              },
+              {
+                "filename": "árbol de Navidad.png",
+                "tag": ""
+              }
+        ]
+}
